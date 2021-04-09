@@ -1,2 +1,2 @@
 # pythonFST2021
-Formation : Python pour les énergies renouvelables
+Formation : Python pour les scientifiques
