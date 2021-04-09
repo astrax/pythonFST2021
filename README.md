@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Formation Python pour les scientifiques
 
-You can use the [editor on GitHub](https://github.com/astrax/pythonFST2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-red.svg)](http://commonmark.org)
+[![made-with-jupyter](https://img.shields.io/badge/Made%20with-jupyter-orange.svg)](https://jupyter.org)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Cette formation a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<center><h4>Société Tunisienne de Physique ; 15-16-17  mars 2021</h4></center>
+<center><h4>Faculté des Sciences de Tunis</h4></center>
+ <center>
+ <img src="logo_python.png" width="200"
+     height="100">
+</center>
 
-```markdown
-Syntax highlighted code block
+### Formateur
 
-# Header 1
-## Header 2
-### Header 3
+* Dr. Ahmed Ammar (1,2)
 
-- Bulleted
-- List
+1. Faculé des Sciences de Tunis, Université de Tunis El Manar.
+2. Institut Préparatoire aux Études Scientifiques et Techniques, Université de Carthage.
 
-1. Numbered
-2. List
+## Programme
 
-**Bold** and _Italic_ and `Code` text
+### Atelier I : 09 Avril 2021
 
-[Link](url) and ![Image](src)
-```
+* Installation de l'environnement de progrmmation Anaconda
+* Implémentation des premiers codes Python (Spyder)
+* Introduction aux librairies scientifiques (Numpy et Matplotlib)
+* Exercices
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Atelier II : 10 avril 2021
 
-### Jekyll Themes
+* Physique numérique
+* Exercices
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/astrax/pythonFST2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Atelier III : 11 avril 2021
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Python & Arduino
+* TP
+
+
+
